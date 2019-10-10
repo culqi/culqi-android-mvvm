@@ -28,7 +28,7 @@ viewModel.getToken(
                     )
             )
 
-//El CODIGO DEL COMERCIO se ingresa en build.gradle dentro de la carpeta app (Se reemplaza el <CODIGO COMERCIO> por el CODIGO DEL COMERCIO
+//El CODIGO DEL COMERCIO se ingresa en build.gradle dentro de la carpeta app (Se reemplaza el <CODIGO COMERCIO> por el CODIGO DEL COMERCIO)
 //buildConfigField('String', 'AUTHORIZATION', '"Bearer <CODIGO COMERCIO>"')
 ```
 
